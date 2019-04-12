@@ -3,4 +3,14 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorStartBlack">#FFFFFF</color>
+    <color name="colorMidBlack">#FEFFF4</color>
+    <color name="EndBlack">#FFD1D1</color>
+    <color name="Purple">#D39EFF</color>
+    <color name="colorPurpleDark">#5F0AAA</color>
+
+
+
+
+
 </resources>
